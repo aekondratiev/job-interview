@@ -1,6 +1,3 @@
-Конечно, вот шпаргалка по **Node Affinity** и **Anti-Affinity** в Kubernetes в формате Markdown:
-
-```markdown
 # Kubernetes Node Affinity и Anti-Affinity Cheat Sheet
 
 ## 1. Что такое Node Affinity и Anti-Affinity?
